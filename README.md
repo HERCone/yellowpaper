@@ -1,3 +1,5 @@
+![AGLDCOVER](https://github.com/AnthemGold/yellowpaper/blob/master/AnthemGold%20Yellow%20Paper%20(fmr%20'White%20Paper')%20.png)
+
 # Yellowpaper
 --------
 ## Technical Yellow Paper for AGLD
